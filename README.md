@@ -24,6 +24,7 @@ References
 - Dask
 - Matplotlib
 - scikit-learn
+- PRAW - [The Python Reddit API Wrapper](https://praw.readthedocs.io/en/stable/)
 
 ## Team
 
