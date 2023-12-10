@@ -2,7 +2,7 @@
 
 Course Project for CS-GY 6513 Big Data
 
-This application predicts whether a past event was a success or a failure based on its reviews collected from different social media platforms.
+Given a past event, we will gather its reviews from major social media websites (like [X](https://twitter.com/), [Reddit](https://www.reddit.com/), [Eventbrite](https://www.eventbrite.com/), etc.) and classify the event as successful or unsuccessful. It will involve sentiment analysis on the gathered data corpus - for example: we will have to identify whether people have positively or negatively reacted to the event and how effectively the event involved its target audience. A successful event will have a lot more positive reviews and ratings. Negative reviews, on the other hand, will be ridiculed on social media posts and might even receive hate at times.
 
 ## Workflow & Technologies
 
