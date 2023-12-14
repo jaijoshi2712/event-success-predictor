@@ -6,6 +6,8 @@ Given a past event, we will gather its reviews from major social media websites 
 
 ## Workflow & Technologies
 
+![Workflow](/docs/workflow.png)
+
 ## Why is this a Big Data problem?
 
 Our project would involve scraping event reviews from different social media websites and training a sentiment analysis model with it that will classify new events as success or failure. Event success classification using sentiment analysis is a big data problem because of the large volume of ever changing data involved including different languages, slangs, emoji usages, etc.. With neologisms being coined and used frequently, the dataset is continuously growing requiring real-time or near-real time processing for accurate analysis.
